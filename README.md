@@ -1,3 +1,3 @@
 # PersonalPortfolio
 Personal portfolio for Roadmap.sh
-https://github.com/GonzaloHR/PersonalPortfolio
+https://roadmap.sh/projects/portfolio-website
